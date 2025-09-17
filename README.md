@@ -79,7 +79,7 @@ Create a new post.
 
 1. **Install dependencies:**
    ```bash
-   npm install express
+   npm install express cors
    ```
 
 2. **Directory structure:**
