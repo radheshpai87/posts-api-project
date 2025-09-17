@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 
-const filePath = path.join(__dirname, "./data/posts.json");
+const filePath = path.join(__dirname, "../data/posts.json");
 
 function readJSON(filePath){
     try{
